@@ -1,6 +1,6 @@
 # Air-Pollution-Tolerance
 1. Air Pollution data for various states is cleaned and processed in the AQI2.ipynb. AQI based on the air pollutants parameters is   calculated and mean for every five years is plotted against every 8 states that are selected.
-  1) Data being retreived from indian-air-quaity dataset from a https://data.gov.in/dataset-group-name/air-quality site which is a              government site which is being stored after prepocessing at google colab link of which is given in file indian air quality dataset.
+  1) Data being retreived from indian-air-quaity dataset from a https://data.gov.in/dataset-group-name/air-quality site which is a              government site which is being stored after prepocessing in a zip file as indian air quality dataset.
   2)In data cleaning process  rows with missing values were removed and outliers were removed.
   3)Visualisations done
       AQI Level mean of Metropolitian Cities from year 2004-2014

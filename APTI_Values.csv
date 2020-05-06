@@ -1,136 +1,0 @@
-Year,Area Found ,Plant Species,APTI
-2008,Vishakapatnam, Ficus religiosa (Peepal),25.77
-,, Zizypus jujube (Jujube) ,22.32
-,," Phyllanthus emblica (Amla )",18.88
-,, Cassia fistula (Indian laburnum),18.69
-,," Tamarindus indica (Tamarind)","16.24"
-,, Anacardium occidentalis (Cashew) ,15.69
-,,"Nerium odorum (Sweet scented oleander) ",15.36
-,,Polyalthia longifolia (Ashoka),15.1
-,,"Acacia melanorylon (Blackwood) ","14.73"
-,,"Psidium guava (Guava)",14.08
-,,Azadirachta indica (Neem),13.55
-,, Helianthus spp. (Sunflower),12.82
-,," Morus alba (Mulberry)",11.82
-,, Mangifera indica (Mango) ,11.7
-,,"Ficus bengalensis (Banyan) ",11.34
-,,Eucalyptus spp. ( Eucalyptus),10.64
-,,Pongamia pinnata (Indian beach),10.09
-,, Anona squamosa (Custard apple) ,9.34
-,,"Syzygium spp. (Black plum)",9.07
-,, Artocarpus spp. (Jack fruit),8.81
-,," Acacia arabica (Babool)",8.49
-,,Achras sapota (Sapota),"8.42"
-,,Delonix regia (Gulmohar) ,6.51
-2010,Odisha,Tectona Grandis ,20.97
-,, Ficus Glomerata Syzigium Cumini ,19.23
-,," Eucalyptus Citriodora",19.02
-,,Diospyros Melanonylon ,18.11
-,, Ficus Religiosa,23.99
-,," Pongamia Pinnata ",23.89
-,, Mimusops elengi,20.34
-,,Shorea robusta ,16.32
-,,Ficus bengalensis,23.92
-,,"Delonix regia",24.14
-,, Buchania lanzen,18.65
-,, Polyalthia longifolia,13.96
-,," Mangifera indica",23.34
-,, Azadirachta indica,29.74
-,, Bombax ceiba,22.41
-,, Gmelina arborea,16.89
-,,"Anthocephalus chinesis",13.32
-,, Acacia Arabica,17.92
-,, Sghleichera oleosa,16.74
-,," Butea monosperma",22.56
-,, Madhuca indica,19.92
-,, Aegle marmelos ,23.71
-,," Dalbergia sisoo",19.31
-,,Bambusa bamboos,26.92
-,, Cuscuta reflexa ,18.32
-,, Ziziphus jujube,13.37
-,," Artocarpus heterophy",18.27
-,," Calotropis gigantean",24.85
-,,Lantana camara,17.89
-,,"Tabernamontana divaricata",14.26
-,, Annona squamosa,15.89
-,, Psidium guyava ,17.44
-,,"Ceasal pinia",26.69
-,," Tamarindus indica",16.78
-,,Bogainvillea spectabilis,13.14
-,,"Pithocolobium dulce",27.22
-,,Anacardium occidentale,14.43
-,,"Ailanthus excelsa ",22.17
-,, Holarrhena,25.34
-,,"Pubescens",17.42
-2011,Allahabad,Mangifera indica,18.51
-,,Aegle marmelos ,14.49
-,,Rosa indica,12.79
-,," Azadirachta indica",12.29
-,, Citrus lemon,12.27
-,,Eucalyptus sp.,11.54
-,, Artocarpus sp.,8.75
-2013,Udaipur,Annona squamosa ,5.007624
-,,Ficus racemosa,3.898751
-,, Santalum album L,6.643192
-2015,Maharashtra,"Polyalthia longifolia",22.78
-,,Nerium indicum,22.08
-,,"Tabernamontana divariata",22.62
-,,Cassia saimia,14.02
-,,Plumeria rubra,22.51
-,, Leucaena leucocephala,21.44
-,,"Azadirachta indica",18.72
-,, Zizipus zizuba,20.77
-,, Ficus religeosa,21.63
-,," Annona squamosa",22.43
-,, Boughanvellia spectabilis,22.91
-,,"Alstonia scholaris",31.29
-2015,Tamil Nadu,Azadirachta indica,5.58
-,, Tectona grandis,7.26
-,,Tamarindus indica,3.18
-,,"Casuarina equisetifolia",5.78
-,,Ficus religiosa,7.27
-,,Ficus benghalensis,6.13
-,,"Morinda pubescens",5.6
-,,Annona squamosa,4.16
-,, Wrightia tinctoria,4.27
-,, Millettia pinnata,7.3
-,,"Mangifera indica",6.99
-,, Syzygium cumini,6.77
-,, Ailanthus excels,6.67
-,,"Melia composite",4.71
-,,"Polyalthia longifolia","5"
-2016,Delhi,Magnifera indica,28.1
-,, Syzygium cumini,10.7
-,,Saraca asoca,8.4
-,,"Ailanthus altissima",9.9
-,, Bombax ceiba,8.9
-,, Ficus religiosa,21.7
-,, Dalbergia sissoo,10.8
-,,"Azadirachta indica",17.9
-,, Ficus virens,8.8
-,,"Ficus benghalensis",19.9
-,,"Neolamarckia cadamba",15.5
-,, Thevetia peruviana,5.9
-,, Alstonia scholaris,6.6
-,,"Bauhivia variegate",10.6
-,, Eucalyptus globules,12.4
-,, Bougainvillea glabra,13
-,,"Butea monosperma",13.4
-,, Terminalia arjuna,10.1
-,, Melia Azedarach,13
-,,"Lagerstroemia indica",9
-,,"Delonix regia",12.6
-2016,West Bengal,Alternanthera sessilis,"35.35"
-,, Antigonon leptopus Hook & Arn.,61.2
-,,"Boerhavia repens L. ",45.86
-,, Desmodium gangeticum (L.) DC.,51.45
-,,"Elephantopus scaber L.",41.74
-,,Globba bulbifera Roxb.,46.92
-,,"Oplismenus compositus (L.)",44.95
-,, Ruellia tuberosa L.,56.31
-,,"Tridax procumbens (L.) L.",44.53
-2017,Uttar Pradesh,Ficus Religiosa,10
-,, Delonix Regia,11
-,, PolyalthiaLongifolia,6
-,," Plumeria sp.",11
-,,Azadirachta Indica,9

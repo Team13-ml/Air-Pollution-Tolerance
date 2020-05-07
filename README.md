@@ -5,3 +5,4 @@
 4. Tree and Forest Cover Extraction folder contains the tree cover and forest cover of different states across the alternate years from 2000 to 2019. It contains the various csv extracted for different years along with their corresponding python files. tree_cover.csv contains the tree cover details, forest_cover.csv contains forest cover details and green_cover.csv is the merge of two files. Tree cover + forest Cover as total attribute is present in Total_Green_Cover.csv. The area is given here in km^2.  
 5. In AQI vs APTI.py one can see the correlation derived between the two and the corresponding scatterplot as well.
 6. In AQI vs Green Cover.py one can see the correlation derived between the two and the corresponding scatterplot as well.
+7. Linear Regression.py consists of the prediction of tree cover based upon the value of AQIs given.

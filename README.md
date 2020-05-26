@@ -6,3 +6,4 @@
 5. In AQI vs APTI.py one can see the correlation derived between the two and the corresponding scatterplot as well.
 6. In AQI vs Green Cover.py one can see the correlation derived between the two and the corresponding scatterplot as well.
 7. Linear Regression.py consists of the prediction of tree cover based upon the value of AQIs given.
+Project Report Overleaf Link: https://www.overleaf.com/project/5e7c94608eb4030001ac2fda
